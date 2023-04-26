@@ -1,0 +1,14 @@
+.t-shart{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px; margin: auto;
+
+}
+.t-shart img{
+    width: 250px;
+    height: 320px;
+   border-radius: 10px;
+}
+.orengeColor{
+    color: #e96666;
+}
