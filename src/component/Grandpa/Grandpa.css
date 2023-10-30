@@ -1,0 +1,18 @@
+
+.grand{
+    border: 1px solid burlywood;
+    margin-top: 10px;
+}.granfpa{
+    border:1px solid burlywood;
+    display: flex;
+   
+}
+.granfpa div{
+    border: 1px solid burlywood;
+    display: flex;
+    border-radius: 10px;
+    gap:5px
+}
+.father{
+    display: flex;
+}
